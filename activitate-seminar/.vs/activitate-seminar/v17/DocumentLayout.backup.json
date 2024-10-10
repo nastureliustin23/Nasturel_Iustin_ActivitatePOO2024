@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2F1733C4-E72F-459D-B4B6-D02B2A014B1B}|activitate-seminar.vcxproj|C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2F1733C4-E72F-459D-B4B6-D02B2A014B1B}|activitate-seminar.vcxproj|solutionrelative:seminar2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F1733C4-E72F-459D-B4B6-D02B2A014B1B}|activitate-seminar.vcxproj|C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2F1733C4-E72F-459D-B4B6-D02B2A014B1B}|activitate-seminar.vcxproj|solutionrelative:seminar1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,10 @@
               "RelativeDocumentMoniker": "seminar2.cpp",
               "ToolTip": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar2.cpp",
               "RelativeToolTip": "seminar2.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAwwFsAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-10T12:42:59.583Z",
+              "WhenOpened": "2024-10-10T12:46:30.629Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "seminar1.cpp",
-              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar1.cpp",
-              "RelativeDocumentMoniker": "seminar1.cpp",
-              "ToolTip": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar1.cpp",
-              "RelativeToolTip": "seminar1.cpp",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-10T12:42:52.628Z"
             }
           ]
         }
