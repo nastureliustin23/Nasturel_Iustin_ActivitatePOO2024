@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:activitate-seminar\\seminar2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:activitate-seminar\\seminar1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate\\seminar2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:activitate\\seminar2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate\\seminar1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:activitate\\seminar1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,56 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "seminar2.cpp",
-              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar2.cpp",
-              "RelativeDocumentMoniker": "activitate-seminar\\seminar2.cpp",
-              "ToolTip": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar2.cpp",
-              "RelativeToolTip": "activitate-seminar\\seminar2.cpp",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-10T12:45:06.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "seminar1.cpp",
-              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar1.cpp",
-              "RelativeDocumentMoniker": "activitate-seminar\\seminar1.cpp",
-              "ToolTip": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate-seminar\\seminar1.cpp",
-              "RelativeToolTip": "activitate-seminar\\seminar1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-10T12:45:05.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "seminar1.cpp",
-              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate\\seminar1.cpp",
-              "RelativeDocumentMoniker": "activitate\\seminar1.cpp",
-              "ToolTip": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate\\seminar1.cpp",
-              "RelativeToolTip": "activitate\\seminar1.cpp",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-10T12:40:30.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "seminar2.cpp",
-              "DocumentMoniker": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate\\seminar2.cpp",
-              "RelativeDocumentMoniker": "activitate\\seminar2.cpp",
-              "ToolTip": "C:\\Users\\justi\\source\\repos\\nastureliustin23\\Nasturel_Iustin_ActivitatePOO2024\\activitate\\seminar2.cpp",
-              "RelativeToolTip": "activitate\\seminar2.cpp",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-10T12:40:29.229Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
