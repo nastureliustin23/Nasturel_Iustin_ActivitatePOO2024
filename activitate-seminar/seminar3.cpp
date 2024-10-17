@@ -79,5 +79,7 @@ int main()
 	}
 	cout << "Pret total flota: " << Masina::calculeazaPretTotalVector(nrMasini, vector) << endl;
 
+	delete[]vector;
+
 	return 1000;
 }
